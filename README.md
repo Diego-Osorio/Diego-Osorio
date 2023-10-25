@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Mi nombre es Diego Osorio. Soy un Ingeniero de Software Full Stack apasionado por la creación de soluciones tecnológicas innovadoras.  tengo  conocimiento en tecnologías tanto de backend ,como PHP y Python, así como en tecnologías de frontend, como html,css y laravel.
+<p align="left"> Mi nombre es Diego Osorio. Soy un Ingeniero de Software Full Stack apasionado por la creación de soluciones tecnológicas innovadoras.  tengo  conocimiento en tecnologías tanto de backend ,como PHP y Python, así como en tecnologías de frontend, como Html,Css y Laravel.
 
 Con un historial probado en proyectos innovadores, me especializo en transformar ideas creativas en realidades digitales. Mi experiencia se centra en no solo abordar las necesidades actuales, sino también en construir soluciones que perduren en el tiempo. Mi objetivo es no solo resolver problemas, sino también anticipar y prevenir futuros obstáculos.
 
